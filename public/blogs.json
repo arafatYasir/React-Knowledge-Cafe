@@ -1,0 +1,62 @@
+[
+    {
+        "cover_image": "https://example.com/image1.jpg",
+        "author": "Alice Johnson",
+        "author_image": "https://example.com/author1.jpg",
+        "title": "The Art of Storytelling",
+        "posted_date": "12 Aug (22 days ago)",
+        "reading_time": 7,
+        "hashtags": [
+            "python",
+            "webdev"
+        ]
+    },
+    {
+        "cover_image": "https://example.com/image2.png",
+        "author": "Bob Smith",
+        "author_image": "https://example.com/author2.png",
+        "title": "Coding for Beginners",
+        "posted_date": "25 Jul (20 days ago)",
+        "reading_time": 5,
+        "hashtags": [
+            "javascript",
+            "react"
+        ]
+    },
+    {
+        "cover_image": "https://example.com/image3.jpeg",
+        "author": "Charlie Brown",
+        "author_image": "https://example.com/author3.jpeg",
+        "title": "Healthy Living Tips",
+        "posted_date": "08 Aug (6 days ago)",
+        "reading_time": 8,
+        "hashtags": [
+            "java",
+            "android"
+        ]
+    },
+    {
+        "cover_image": "https://example.com/image4.jpg",
+        "author": "Diana Lee",
+        "author_image": "https://example.com/author4.jpg",
+        "title": "Travel the World",
+        "posted_date": "15 Jul (30 days ago)",
+        "reading_time": 6,
+        "hashtags": [
+            "c++",
+            "gamedev"
+        ]
+    },
+    {
+        "cover_image": "https://example.com/image5.png",
+        "author": "Eric Kim",
+        "author_image": "https://example.com/author5.png",
+        "title": "The Science of Sleep",
+        "posted_date": "28 Jul (17 days ago)",
+        "reading_time": 9,
+        "hashtags": [
+            "machinelearning",
+            "ai"
+        ]
+    }
+]
