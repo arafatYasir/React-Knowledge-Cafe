@@ -1,6 +1,7 @@
 [
     {
-        "cover_image": "https://example.com/image1.jpg",
+        "id": 1,
+        "cover": "https://i.postimg.cc/WpWD3Q14/1.jpg",
         "author": "Alice Johnson",
         "author_image": "https://example.com/author1.jpg",
         "title": "The Art of Storytelling",
@@ -12,7 +13,8 @@
         ]
     },
     {
-        "cover_image": "https://example.com/image2.png",
+        "id": 2,
+        "cover": "https://i.postimg.cc/yYGSf2MG/2.png",
         "author": "Bob Smith",
         "author_image": "https://example.com/author2.png",
         "title": "Coding for Beginners",
@@ -24,7 +26,8 @@
         ]
     },
     {
-        "cover_image": "https://example.com/image3.jpeg",
+        "id": 3,
+        "cover": "https://i.postimg.cc/Pr0PbYZs/3.png",
         "author": "Charlie Brown",
         "author_image": "https://example.com/author3.jpeg",
         "title": "Healthy Living Tips",
@@ -36,7 +39,8 @@
         ]
     },
     {
-        "cover_image": "https://example.com/image4.jpg",
+        "id": 4,
+        "cover": "https://i.postimg.cc/PqjJ9H2S/4.jpg",
         "author": "Diana Lee",
         "author_image": "https://example.com/author4.jpg",
         "title": "Travel the World",
@@ -48,7 +52,8 @@
         ]
     },
     {
-        "cover_image": "https://example.com/image5.png",
+        "id": 5,
+        "cover": "https://i.postimg.cc/yYGSf2MG/2.png",
         "author": "Eric Kim",
         "author_image": "https://example.com/author5.png",
         "title": "The Science of Sleep",
