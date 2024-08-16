@@ -3,7 +3,7 @@
         "id": 1,
         "cover": "https://i.postimg.cc/WpWD3Q14/1.jpg",
         "author": "Alice Johnson",
-        "author_image": "https://example.com/author1.jpg",
+        "author_image": "https://i.postimg.cc/k4Cj22wW/boy1.png",
         "title": "The Art of Storytelling",
         "posted_date": "12 Aug (22 days ago)",
         "reading_time": 7,
@@ -16,7 +16,7 @@
         "id": 2,
         "cover": "https://i.postimg.cc/yYGSf2MG/2.png",
         "author": "Bob Smith",
-        "author_image": "https://example.com/author2.png",
+        "author_image": "https://i.postimg.cc/bNrmSc0V/boy2.jpg",
         "title": "Coding for Beginners",
         "posted_date": "25 Jul (20 days ago)",
         "reading_time": 5,
@@ -29,7 +29,7 @@
         "id": 3,
         "cover": "https://i.postimg.cc/Pr0PbYZs/3.png",
         "author": "Charlie Brown",
-        "author_image": "https://example.com/author3.jpeg",
+        "author_image": "https://i.postimg.cc/Bn1NNTVx/girl1.jpg",
         "title": "Healthy Living Tips",
         "posted_date": "08 Aug (6 days ago)",
         "reading_time": 8,
@@ -42,26 +42,13 @@
         "id": 4,
         "cover": "https://i.postimg.cc/PqjJ9H2S/4.jpg",
         "author": "Diana Lee",
-        "author_image": "https://example.com/author4.jpg",
+        "author_image": "https://i.postimg.cc/KvL4y3Wy/girl2.jpg",
         "title": "Travel the World",
         "posted_date": "15 Jul (30 days ago)",
         "reading_time": 6,
         "hashtags": [
             "c++",
             "gamedev"
-        ]
-    },
-    {
-        "id": 5,
-        "cover": "https://i.postimg.cc/yYGSf2MG/2.png",
-        "author": "Eric Kim",
-        "author_image": "https://example.com/author5.png",
-        "title": "The Science of Sleep",
-        "posted_date": "28 Jul (17 days ago)",
-        "reading_time": 9,
-        "hashtags": [
-            "machinelearning",
-            "ai"
         ]
     }
 ]

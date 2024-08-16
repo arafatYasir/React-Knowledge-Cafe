@@ -2,16 +2,28 @@ import './App.css'
 import Header from './Components/Header/Header'
 import Blogs from './Components/Blogs/Blogs'
 import Bookmarks from './Components/Bookmarks/Bookmarks'
+import { useState } from 'react'
 
 function App() {
+  const [bookmarks, setBookmarks] = useState([]);
+  const [readingTime, setReadingTime] = useState(0);
+
+  const addToBookmark = (blog) => {
+    const newBookmarks = [...bookmarks, blog];
+    setBookmarks(newBookmarks);
+  }
+
+  const markAsRead = (time) => {
+    setReadingTime(readingTime + time);
+  }
   return (
     <>
       <div className='container mx-auto'>
         <Header></Header>
 
         <div className='md:flex'>
-          <Blogs></Blogs>
-          <Bookmarks></Bookmarks>
+          <Blogs addToBookmark={addToBookmark} markAsRead={markAsRead}></Blogs>
+          <Bookmarks bookmarks={bookmarks} readingTime={readingTime}></Bookmarks>
         </div>
       </div>
     </>
